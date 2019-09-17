@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: rabbitmq-hello-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: gaoshuai
+Implementation-Vendor-Id: com.didispace
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
